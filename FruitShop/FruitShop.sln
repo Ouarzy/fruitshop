@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop", "FruitShop\FruitShop.csproj", "{82D31FEF-CDBF-4C72-887A-BB37FEE9BA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShopFeatures", "FruitShopFeatures\FruitShopFeatures.csproj", "{C2EF1E63-9B88-4923-A2AF-478E528BA7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D31FEF-CDBF-4C72-887A-BB37FEE9BA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D31FEF-CDBF-4C72-887A-BB37FEE9BA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D31FEF-CDBF-4C72-887A-BB37FEE9BA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D31FEF-CDBF-4C72-887A-BB37FEE9BA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EF1E63-9B88-4923-A2AF-478E528BA7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EF1E63-9B88-4923-A2AF-478E528BA7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EF1E63-9B88-4923-A2AF-478E528BA7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EF1E63-9B88-4923-A2AF-478E528BA7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

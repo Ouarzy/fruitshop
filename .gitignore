@@ -1,11 +1,19 @@
-# IntelliJ IDEA #
-.idea/
-*.iml
+# Visual Studio #
+bin
+obj
+Debug
+Release
+*.suo
+*.orig
+*.user
 
-# Eclipse #
-.project
-.classpath
-.settings
+# Nuget #
+.nuget/*
+*/packages/*
 
-# Maven #
-target/
+# Ncrunch #
+*.ncrunchproject
+*.ncrunchsolution
+*.cache
+*.dat
+
